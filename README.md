@@ -1,5 +1,5 @@
-# daily-zodiac
-##See your daily horoscope
+# Daily Zodiac Reader
+## See your daily horoscope
 
 This is a simple site that will show you your daily horoscope. 
 
